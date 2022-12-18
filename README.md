@@ -1,21 +1,13 @@
-# <a href="https://github.com/rhildred/ES6OrderBot" target="_blank">ES6 Order Bot</a>
 
-I got the user interface for the web from a student of mine, Pat Wilken.
 
 To run:
 
-1. The first time run `npm install`
-2. Press ctrl-f5 while your focus is in one of the files that starts with a number and is all lower case.
+1. Open Visual studio code and Open the file.
+2. The first time run `npm install`
+3. Then use `npm start` or `npm assignment1Order.js`
+4. The Application will then run on localhost on any browser.
+5. welcome to chatbot
 
-## Assignment 1
+ABOUT CHATBOT
 
-Create an order bot for your favourite food. You need to have at least 2 items on the menu unless your favourite food is pizza in which case you need to have 3 (I did pizza already). The menu items need to have size and one other attribute like toppings. You also need an up-sell item like drinks in the example.
-
-### Marking
-
-basic order for an item in a zip (65%)
-2nd or 3rd item (up to 10%)
-up-sell item other than drinks (up to 10%)
-estimated price or ability for someone in the store to see the orders with their phone (up to 15%)
-
-There is a brief [presentation here](EventsAndObjects.pdf).
+This chatbot is used to place an Order your favourite burgers. by using simple numerical value as input, you can choose any type of burger from the list that is provided by the application. you can choose the size of your burger. also it has option to make it a combo and also to add drink to make it a combo. after choosing the food. you can finish the order by completing the payment.
